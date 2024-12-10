@@ -1,0 +1,1 @@
+In this code we generate a secure hash of our data. Then we make some changes to the data and will generate a new hash of that. We'll see that the new hash is completely different from the original one.
